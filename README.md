@@ -1,7 +1,7 @@
-# Drum Website Project by 2023 Web Development Bootcamp Repository from Udemy.
+# Repositório da AS1 da disciplina de DevOps do curso de ADS da PUCPR.
 
-## Content:
+## Conteúdo:
 
-- Drum Website Project developed by Dr. Angela Yu from Udemy.
+- AS1 da disciplina de DevOps do curso de Tecnologia em Análise e Desenvolvimento de Sistemas da PUCPR.
 
-### Used IDE: Visual Studio Code.
+### IDEs utilizadas: GitLab e Visual Studio Code.
