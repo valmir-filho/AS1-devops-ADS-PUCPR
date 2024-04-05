@@ -1,0 +1,21 @@
+image: python
+
+stages:
+    - build
+    - test
+    - deploy
+
+build-job:
+    stage: build
+    script:
+        - python3 -V
+
+test-count:
+    stage: test
+    script:
+        - python3 hello.py
+
+deploy-job:
+    stage: deploy
+    script:
+        - echo "Terminou :D"
